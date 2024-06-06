@@ -3,20 +3,20 @@
 	Licence of this file: free for educational, commercial or other usage.
 	
 		This file contains code to place a space crate in a POVRay scene
-		Most of the time, you should only use one or several of these three 
-	alias in an object statement (without the single quotes):
+		Most of the time, you should only use one or several of these four
+	aliases in an object statement (without the single quotes):
+		
+		'object{ SpCr1_CompleteCrateWithCover }' 
+		 	>> ( the complete crate: container, top and attachs )
 		
 		'object{ SpCr1_CompleteCover }'	
-			>> ( only the top of the crate without clips )
+			>> ( only the top of the crate without attachs )
 		
 		'object{ SpCr1_ContainBox }'				
 			>> ( only the container, no top )
 		
-		'object{ SpCr1_CompleteCrateWithCover }' 
-		 	>> ( the complete crate: container, top and clips )
-		
 		'object{ SpCr1_CompleteCoverWithAttachs }'
-			>> ( only the top with its clips )
+			>> ( only the top with its attachs )
 			 
 		The complete crate is centered on the 'x' and 'z' axes and the 
 	bottom of the crate lies at 0 on the 'y' axis. The vertical of 

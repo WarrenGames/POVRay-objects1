@@ -208,7 +208,7 @@ isosurface{
 	accuracy 0.005
 	max_gradient 46.2
 	contained_by{ box{  < -Well_BaseRadius * 1.0086, 0 , -Well_BaseRadius * 1.0086 >, 
-                        < Well_BaseRadius * 1.0086, Well_Highness, Well_BaseRadius * 1.0065 > } 
+                        < Well_BaseRadius * 1.0086, Well_Highness, Well_BaseRadius * 1.0086 > } 
 	}
     max_trace 2
     texture{ Well_BaseTexture }
