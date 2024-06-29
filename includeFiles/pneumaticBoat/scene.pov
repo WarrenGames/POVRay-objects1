@@ -24,7 +24,7 @@ camera{
 	look_at < 0, 2, 0 >
 }
 
-light_source{ < -2, 10, -5 > * 100 color srgb < 1, 0.9, 0.8 > }
+light_source{ < -2, 10, -5 > * 100 color srgb < 1, 0.95, 0.9 > }
 
 #include "pneumaticBoat.inc"
 
