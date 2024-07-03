@@ -6,8 +6,8 @@
 		file to your scene:
 	'object{ CompleteWell }'
 	Of course any translate, rotate, or scale works fine for that object.
-	All of the declared pigment, finish, normal, texture, macro, or objects have
-	been prefixed with 'Well_' to avoid collision with anything else in a scene.
+	All of the declared pigments, finishes, normals, textures, macros, or objects have
+	been prefixed with 'Well_' to avoid any collisions with anything else in a scene.
 */
 	
 #include "woods.inc" //This is a standard povray file, you don't need to download it anywhere
