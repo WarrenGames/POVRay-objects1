@@ -17,7 +17,7 @@ any other file to include. I tried to prefix every sub parts of the
 objects to avoid collisions with any other previous declarations in a 
 scene.
 
-Browse my web site for more contents about drm free graphisms and POVRay ressources (like stills with POVRay source code).
+Browse my web site for more contents about drm free graphisms and POVRay ressources (like stills with POVRay source code) at this address: https://www.ant01.fr
 
 ![The pneumatic boat in a demo scene](/includeFiles/pneumaticBoat/pneumaticBoatImage.png)
 ![The well object](/includeFiles/well/rusticWell.png)
