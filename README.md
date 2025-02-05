@@ -19,7 +19,8 @@ scene.
 
 Browse my web site for more contents about drm free graphisms and POVRay ressources (like stills with POVRay source code) at this address: https://www.ant01.fr
 
-![The pneumatic boat in a demo scene](/includeFiles/pneumaticBoat/pneumaticBoatImage.png)
+![The jars objects](/includeFiles/jars/jarsRender.png)
 ![The well object](/includeFiles/well/rusticWell.png)
 ![The crate object in a demo scene](/includeFiles/spaceCrate1/spaceCrate.png)
 ![The outdoor lamp in a demo scene](/includeFiles/outdoorsLamp/lampRender.png)
+![The pneumatic boat in a demo scene](/includeFiles/pneumaticBoat/pneumaticBoatImage.png)
