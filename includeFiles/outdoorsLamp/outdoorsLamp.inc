@@ -6,7 +6,7 @@
 	To use the lamp in any of your scene just add this line after having included this 
 		file to your scene:
 	'object{ CompleteLamp }'
-	Of course any translate, rotate, or scale work fine for that object.
+	Of course any translate, rotate, or scale works fine for that object.
 	All of the declared pigment, finish, normal, texture, macro, or objects have
 	been prefixed with 'Lamp_' to avoid collision with anything else in a scene.
 */
