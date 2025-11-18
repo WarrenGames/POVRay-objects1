@@ -7,7 +7,7 @@
 	'object{ CompleteWell }'
 	Of course any translate, rotate, or scale works fine for that object.
 	All of the declared pigments, finishes, normals, textures, macros, or objects have
-	been prefixed with 'Well_' to avoid any collisions with anything else in a scene.
+	been prefixed with 'Well_' in order to avoid any collisions with anything else in a scene.
 */
 	
 #include "woods.inc" //This is a standard povray file, you don't need to download it anywhere
@@ -392,3 +392,4 @@ union{
 #declare Well_BoundariesMin = min_extent( CompleteWell );
 #declare Well_Size = Well_BoundariesMax - Well_BoundariesMin;
 #debug concat( "Size of well is: ", vstr( 3, Well_Size, ", ", 0, 2 ), " \n")
+
